@@ -1,3 +1,37 @@
 * {
 	font-family: sans-serif;
+	text-align: center;
+	margin-top: 25px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+head{
+	background-image: url("images/background.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+img.headshot {
+	float: left;
+	height: 25%;
+	width: 25%;
+	margin-top: 50px;
+}
+
+div.bio{
+	margin-top: 50px;
+	text-align: left;
+	line-height: 200%;
+}
+
+div.lists{
+	margin-top: 50px;
+	float: left;
+	clear: left;
+	text-align: left;
+}
+
+li{
+	text-align: left;
 }
